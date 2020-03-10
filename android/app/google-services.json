@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "854520697513-u0366pfo21lib2pj4qjsip6ubv7vs2b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.qc.stanislas.artur.friendlychat",
+            "certificate_hash": "12c1ad0871dce11a960720468d715eb79223d2df"
+          }
+        },
+        {
           "client_id": "854520697513-l5nk4sbd1bbjbiuomrlrpa8vqompd1qk.apps.googleusercontent.com",
           "client_type": 3
         }
